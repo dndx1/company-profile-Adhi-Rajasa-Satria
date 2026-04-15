@@ -59,8 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-your-daniaqmaah@gmail.com.
+reported to the community leaders responsible for enforcement at daniaqmaah@gmail.com.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
