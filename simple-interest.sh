@@ -1,20 +1,14 @@
 #!/bin/bash
 
-# Input
-
 echo "Enter Principal:"
 read P
 
-echo "Enter Rate (%):"
+echo "Enter Rate:"
 read R
 
-echo "Enter Time (years):"
+echo "Enter Time:"
 read T
-
-# Calculate Simple Interest
 
 SI=$((P * R * T / 100))
 
-# Output
-
-echo "Simple Interest is: $SI"
+echo "Simple Interest: $SI"
