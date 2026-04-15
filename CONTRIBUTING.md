@@ -2,6 +2,16 @@
 
 Thank you for considering contributing to this project! 🎉
 
+## Contributions
+
+All contributions are welcome, including:
+
+* Bug reports
+* Bug fixes
+* Documentation improvements
+* Enhancements
+* Ideas and suggestions
+
 ## How to Contribute
 
 * Fork this repository
